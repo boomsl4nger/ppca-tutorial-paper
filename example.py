@@ -9,13 +9,11 @@ Date: 04/05/2024
 
 References:
 Bishop (2006), Pattern Recognition and Machine Learning
+https://www.youtube.com/watch?v=lJ0cXPoEozg
 https://bsc-iitm.github.io/ML_Handbook/pages/Probabilistic_PCA.html
 https://cs.nyu.edu/~roweis/code.html#empca
 https://github.com/PRML/PRMLT/tree/master/chapter12
 https://github.com/cangermueller/ppca
-https://github.com/ymcdull/ppca
-https://www.tensorflow.org/probability/examples/Probabilistic_PCA
-https://www.youtube.com/watch?v=lJ0cXPoEozg
 """
 
 ## Imports
